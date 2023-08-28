@@ -1,0 +1,14 @@
+package br.com.fiap.main;
+
+import br.com.fiap.beans.Cliente;
+
+public class TesteCliente {
+		// Ctrl + Shift + O = Importar classe "Cliente"
+	
+	public static void main(String[] args) {
+		// Instanciar objeto
+		Cliente objetoCliente = new Cliente();
+		
+		objetoCliente.setNome("Theodoro");
+	}
+}
