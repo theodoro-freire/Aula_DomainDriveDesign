@@ -16,7 +16,7 @@ public class TesteCliente {
 		//Saidas
 		
 		System.out.println("Nome: " + objetoCliente.getNome() +
-				"/nIdade: " + objetoCliente.getIdade());
+				"\nIdade: " + objetoCliente.getIdade());
 		//System.out.println(objetoCliente.getNome());
 		//System.out.println(objetoCliente.getIdade());
 	}
